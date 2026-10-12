@@ -24,9 +24,9 @@ This program converts user-provided values between 14 units of measurement for l
 2. Open a terminal in the project folder.
 3. Run the program using:
 
-   `python conversions.py`
+   `python Conversions.py`
 
-Replace `conversions.py` with your actual Python filename if it's different.
+Replace `Conversions.py` with your actual Python filename if it's different.
 
 ## Background
 
